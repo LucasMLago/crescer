@@ -1,0 +1,44 @@
+{
+    "name": "crescer",
+    "version": "0.1.0",
+    "main": "./build/electron/main.js",
+    "scripts": {
+        "dump": "dump-stlite-desktop-artifacts",
+        "serve": "cross-env NODE_ENV=production electron .",
+        "pack": "electron-builder --dir",
+        "dist": "electron-builder",
+        "postinstall": "electron-builder install-app-deps"
+    },
+    "build": {
+        "files": [
+            "build/**/*"
+        ],
+        "directories": {
+            "buildResources": "assets"
+        },
+        "win": {
+            "target": "portable",
+            "icon": "assets/jornal.png"
+        }
+    },
+    "devDependencies": {
+        "@stlite/desktop": "^0.60.2",
+        "cross-env": "^7.0.3",
+        "electron": "30.0.8",
+        "electron-builder": "^24.13.3",
+        "tar": "^7.4.3"
+    },
+    "stlite": {
+        "desktop": {
+            "files": [
+                "app/.streamlit/config.toml",
+                "app/dfs_perguntas/*.csv",
+                "app/images/*",
+                "app/pages/Legenda.py",
+                "app/pages/legenda.csv",
+                "app/*.py"
+            ],
+            "entrypoint": "app/Pesquisa.py"
+        }
+    }
+}
