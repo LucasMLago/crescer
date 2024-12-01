@@ -1,0 +1,9 @@
+build/
+data/
+dist/
+node_modules/
+assets
+poetry.lock
+
+analisa_dados.ipynb
+perguntas.ipynb

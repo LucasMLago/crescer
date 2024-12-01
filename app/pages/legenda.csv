@@ -1,0 +1,49 @@
+Código,Descrição
+O1,Digital
+O2,Impresso
+O3,Impresso e digital
+I1,Arquivo pessoal/reprodução de redes sociais
+I2,"Adolescente, família e amigos"
+I3,Local do suicídio
+I4,Ilustrações/bancos de imagens que remetem ao estado de espírito da vítima
+E1,Assuntos gerais
+E2,Cultura/Entretenimento
+E3,Faits Divers/Curiosidades/Celebridades
+E4,Policial
+E5,Comportamento/Denúncia
+E6,Medicina/Saúde
+E7,Prevenção/Educação
+P1,"Foco em tentativa/suicídio de jovens, respeitando a deontologia e recomendações da OMS"
+P2,"Foco em tentativa/suicídio de jovens, desrespeitando a deontologia e recomendações da OMS"
+P3,Posvenção/Desdobramentos do suicídio de jovens
+P4,Prevenção
+P5,Capacitação (pais/responsáveis/educadores/médicos)
+F1,Pais/parentes/amigos/familiares/sobrevivente
+F2,"Profissional de Saúde nacional/estrangeiro (EUA, Europa, Japão)"
+F3,Profissional de Educação/Comunidade escolar (pública/privada)
+F4,Pesquisas (fonte entidade pública/empresa privada) e livros
+F5,Organização da Sociedade Civil (OSC)
+F6,Agentes Públicos/de Segurança Pública
+F7,Reportagem traduzida de veículo estrangeiro
+R1,Transtorno mental
+R2,Mudança comportamental
+R3,Conflitos de identidade de gênero
+R4,Causas emocionais (experiência frustrante/problemas familiares/luto/abandono/abusos físicos ou psicológicos)
+R5,Bullying/cyberbullying
+R6,Internet/deepweb
+R7,Drogas lícitas/ilícitas
+R8,Genética
+R9,Acesso aos meios
+R10,Índice de Vulnerabilidade Social (IVS)
+R11,Ethos/Modernidade
+Q1,Profissional de Educação/Comunidade escolar
+Q2,Profissional de Saúde
+Q3,Pais/parentes/amigos/familiares/sobrevivente
+Q4,Opinião pública
+S1,Pais/responsáveis/amigos/familiares
+S2,Profissional de Educação/Comunidade escolar
+S3,Profissional de Saúde
+S4,Órgãos Públicos/Entidades de classe
+S5,Meios de Comunicação / Redes Sociais
+S6,Educação inclusiva
+S7,Melhoria de Índice de Vulnerabilidade Social
