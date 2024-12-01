@@ -1,0 +1,20 @@
+credentials:
+  usernames:
+    roni:
+      email: [ronifilgueiras@id.uff.br, roni.filgueiras@gmail.com]
+      failed_login_attempts: 0
+      logged_in: False
+      first_name: Roni
+      last_name: Filgueiras
+      password: RONI_PASSWORD
+    llago:
+      email: lukemartinslagonit@gmail.com
+      failed_login_attempts: 0
+      logged_in: False
+      first_name: Lucas
+      last_name: Lago
+      password: LLAGO_PASSWORD
+cookie:
+  expiry_days: 1
+  key: random_signature_key
+  name: random_cookie_name

@@ -4,6 +4,7 @@ dist/
 node_modules/
 assets
 poetry.lock
+.env
 
 analisa_dados.ipynb
 perguntas.ipynb
