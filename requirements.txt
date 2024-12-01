@@ -3,3 +3,5 @@ streamlit
 altair
 plotly
 nbformat
+streamlit-authenticator
+python-dotenv
